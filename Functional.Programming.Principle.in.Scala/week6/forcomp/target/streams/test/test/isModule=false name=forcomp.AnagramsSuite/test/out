@@ -1,0 +1,144 @@
+[0m[[0minfo[0m] [0m[32mAnagramsSuite:[0m[0m
+[0m[[0minfo[0m] [0m[31m- wordOccurrences: abcd *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.Anagrams$.wordOccurrences(Anagrams.scala:37)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$1.apply$mcV$sp(AnagramsSuite.scala:14)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$1.apply(AnagramsSuite.scala:14)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$1.apply(AnagramsSuite.scala:14)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- wordOccurrences: Robert *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.Anagrams$.wordOccurrences(Anagrams.scala:37)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$2.apply$mcV$sp(AnagramsSuite.scala:18)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$2.apply(AnagramsSuite.scala:18)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$2.apply(AnagramsSuite.scala:18)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- sentenceOccurrences: abcd e *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.Anagrams$.sentenceOccurrences(Anagrams.scala:40)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$3.apply$mcV$sp(AnagramsSuite.scala:23)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$3.apply(AnagramsSuite.scala:23)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$3.apply(AnagramsSuite.scala:23)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- dictionaryByOccurrences.get: eat *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.Anagrams$.dictionaryByOccurrences$lzycompute(Anagrams.scala:57)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.Anagrams$.dictionaryByOccurrences(Anagrams.scala:57)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$4.apply$mcV$sp(AnagramsSuite.scala:28)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$4.apply(AnagramsSuite.scala:28)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$4.apply(AnagramsSuite.scala:28)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- word anagrams: married *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.Anagrams$.wordAnagrams(Anagrams.scala:60)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$5.apply$mcV$sp(AnagramsSuite.scala:33)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$5.apply(AnagramsSuite.scala:33)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$5.apply(AnagramsSuite.scala:33)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- word anagrams: player *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.Anagrams$.wordAnagrams(Anagrams.scala:60)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$6.apply$mcV$sp(AnagramsSuite.scala:37)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$6.apply(AnagramsSuite.scala:37)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$6.apply(AnagramsSuite.scala:37)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- subtract: lard - r *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.Anagrams$.subtract(Anagrams.scala:96)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$7.apply$mcV$sp(AnagramsSuite.scala:46)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$7.apply(AnagramsSuite.scala:42)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$7.apply(AnagramsSuite.scala:42)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- combinations: [] *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.Anagrams$.combinations(Anagrams.scala:84)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$8.apply$mcV$sp(AnagramsSuite.scala:51)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$8.apply(AnagramsSuite.scala:51)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$8.apply(AnagramsSuite.scala:51)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- combinations: abba *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.Anagrams$.combinations(Anagrams.scala:84)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$9.apply$mcV$sp(AnagramsSuite.scala:67)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$9.apply(AnagramsSuite.scala:54)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$9.apply(AnagramsSuite.scala:54)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- sentence anagrams: [] *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.Anagrams$.sentenceAnagrams(Anagrams.scala:138)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$10.apply$mcV$sp(AnagramsSuite.scala:73)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$10.apply(AnagramsSuite.scala:71)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$10.apply(AnagramsSuite.scala:71)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- sentence anagrams: Linux rulez *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.Anagrams$.sentenceAnagrams(Anagrams.scala:138)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$11.apply$mcV$sp(AnagramsSuite.scala:100)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$11.apply(AnagramsSuite.scala:76)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at forcomp.AnagramsSuite$$anonfun$11.apply(AnagramsSuite.scala:76)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
